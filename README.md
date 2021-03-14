@@ -45,7 +45,7 @@ Tree based models are not distance based models and can handle varying ranges of
     -> RandomForest
 **************************************************************************************************************************************    
 3. Techniques Handling Missing values in Categorical features(variables)
-    -> Delete rows
-    -> Replace with most frequent values
-    -> Apply classifier algorithm to predict
-    -> Apply unsupervised ML algorithm
+    1. Delete rows
+    2. Replace with most frequent values
+    3. Apply classifier algorithm to predict
+    4. Apply unsupervised ML algorithm
